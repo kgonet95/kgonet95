@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Kamil and I was teaching IT at school, but now I'm developing my own skills in programming.<br>I love simplicity, clear explanations, and the “ELI5” approach, which is why I try to explain difficult things in a simple way.<br><br><br>🌱 I’m currently learning I'm currently learning C#, .NET, and Blazor
+Hi! My name is Kamil and I was teaching IT at school, but now I'm developing my own skills in programming.<br>I love simplicity, clear explanations, and the “ELI5” approach, which is why I try to explain difficult things in a simple way.<br><br><br>🌱 I'm currently learning C#, .NET, and Blazor
 
 
 ## 🌐 Socials:
